@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762282487142",
+    "project_id": "realtimedb-20220323",
+    "storage_bucket": "realtimedb-20220323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762282487142:android:19dcf2158d6bfbf27c2ca7",
+        "android_client_info": {
+          "package_name": "kr.co.smartsoft.realtimedb_20220323"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762282487142-ok74ne0o57kpkvvl3aqill5ee3j67220.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0B4QxlEFoML35aFsdEjsS85wYfljcZQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762282487142-ok74ne0o57kpkvvl3aqill5ee3j67220.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

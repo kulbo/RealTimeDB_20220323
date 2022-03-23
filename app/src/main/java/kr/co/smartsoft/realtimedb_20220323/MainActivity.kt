@@ -12,7 +12,7 @@ class MainActivity : BaseActivity() {
     }
 
     override fun setUpEvents() {
-        
+
     }
 
     override fun setValues() {
